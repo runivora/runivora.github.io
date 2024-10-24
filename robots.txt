@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://runivora.github.io/sitemap/sitemap_index.runivora
+Sitemap: https://runivora.github.io/ykM/sitemap_index.runivora
+Sitemap: https://runivora.github.io/ROC/sitemap_index.runivora
+Sitemap: https://runivora.github.io/lqZ/sitemap_index.runivora
+Sitemap: https://runivora.github.io/Led/sitemap_index.runivora
+Sitemap: https://runivora.github.io/Quw/sitemap_index.runivora
+Sitemap: https://runivora.github.io/ZUv/sitemap_index.runivora
+Sitemap: https://runivora.github.io/cbr/sitemap_index.runivora
+Sitemap: https://runivora.github.io/heR/sitemap_index.runivora
+Sitemap: https://runivora.github.io/icI/sitemap_index.runivora
+Sitemap: https://runivora.github.io/MXq/sitemap_index.runivora
+Sitemap: https://runivora.github.io/NKX/sitemap_index.runivora
+Sitemap: https://runivora.github.io/bME/sitemap_index.runivora
+Sitemap: https://runivora.github.io/gGV/sitemap_index.runivora
+Sitemap: https://runivora.github.io/GYX/sitemap_index.runivora
+Sitemap: https://runivora.github.io/WZR/sitemap_index.runivora
+Sitemap: https://runivora.github.io/hIl/sitemap_index.runivora
+Sitemap: https://runivora.github.io/nMR/sitemap_index.runivora
+Sitemap: https://runivora.github.io/Dxi/sitemap_index.runivora
+Sitemap: https://runivora.github.io/THX/sitemap_index.runivora
+Sitemap: https://runivora.github.io/PjC/sitemap_index.runivora
